@@ -33,3 +33,9 @@ rt.applovin.com
 tr-eu.adsmoloco.com
 https://www.bybit.com
 dynupdate.noip.com
+ipcast1.dynupdate.noip.com
+events2.gameforge.com
+scontent-waw2-1.xx.fbcdn.net
+video-waw2-2.xx.fbcdn.net
+scontent-waw2-2.xx.fbcdn.net
+tnc16-alisg.isnssdk.com
